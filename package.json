@@ -1,0 +1,19 @@
+{
+  "name": "restify-joi-mw",
+  "version": "0.0.0",
+  "description": "restify-joi-mw ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yldio/restify-joi-mw.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yldio/restify-joi-mw/issues"
+  },
+  "homepage": "https://github.com/yldio/restify-joi-mw"
+}
